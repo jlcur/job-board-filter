@@ -7,7 +7,7 @@ Generate fake job postings and filter by location, job title, post date, and mor
 
 ## 🚀 Preview
 
-![Preview](preview.png | width=800)
+![Preview](preview.png)
 
 ## 🔑 Tech stack
 
